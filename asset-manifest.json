@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/react-sortable-tree-intelligent-checkboxes/static/js/main.30a0aa3b.chunk.js",
+    "main.js.map": "/react-sortable-tree-intelligent-checkboxes/static/js/main.30a0aa3b.chunk.js.map",
+    "runtime-main.js": "/react-sortable-tree-intelligent-checkboxes/static/js/runtime-main.402f7353.js",
+    "runtime-main.js.map": "/react-sortable-tree-intelligent-checkboxes/static/js/runtime-main.402f7353.js.map",
+    "static/css/2.b58dcaa8.chunk.css": "/react-sortable-tree-intelligent-checkboxes/static/css/2.b58dcaa8.chunk.css",
+    "static/js/2.25495a86.chunk.js": "/react-sortable-tree-intelligent-checkboxes/static/js/2.25495a86.chunk.js",
+    "static/js/2.25495a86.chunk.js.map": "/react-sortable-tree-intelligent-checkboxes/static/js/2.25495a86.chunk.js.map",
+    "index.html": "/react-sortable-tree-intelligent-checkboxes/index.html",
+    "precache-manifest.ed66c2a2870a34c4430fad64a1e9161a.js": "/react-sortable-tree-intelligent-checkboxes/precache-manifest.ed66c2a2870a34c4430fad64a1e9161a.js",
+    "service-worker.js": "/react-sortable-tree-intelligent-checkboxes/service-worker.js",
+    "static/css/2.b58dcaa8.chunk.css.map": "/react-sortable-tree-intelligent-checkboxes/static/css/2.b58dcaa8.chunk.css.map",
+    "static/js/2.25495a86.chunk.js.LICENSE.txt": "/react-sortable-tree-intelligent-checkboxes/static/js/2.25495a86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.402f7353.js",
+    "static/css/2.b58dcaa8.chunk.css",
+    "static/js/2.25495a86.chunk.js",
+    "static/js/main.30a0aa3b.chunk.js"
+  ]
+}
