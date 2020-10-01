@@ -1,3 +1,5 @@
+View demo here(https://mandrop.github.io/react-sortable-tree-intelligent-checkboxes/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
